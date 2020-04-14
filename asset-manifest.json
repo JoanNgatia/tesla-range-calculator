@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-tesla-range-calculator/static/css/main.5708ff62.chunk.css",
+    "main.js": "/react-tesla-range-calculator/static/js/main.6f83e17a.chunk.js",
+    "main.js.map": "/react-tesla-range-calculator/static/js/main.6f83e17a.chunk.js.map",
+    "runtime-main.js": "/react-tesla-range-calculator/static/js/runtime-main.749a546c.js",
+    "runtime-main.js.map": "/react-tesla-range-calculator/static/js/runtime-main.749a546c.js.map",
+    "static/js/2.7ff456a8.chunk.js": "/react-tesla-range-calculator/static/js/2.7ff456a8.chunk.js",
+    "static/js/2.7ff456a8.chunk.js.map": "/react-tesla-range-calculator/static/js/2.7ff456a8.chunk.js.map",
+    "index.html": "/react-tesla-range-calculator/index.html",
+    "precache-manifest.7d4670102647ca9d7968daf0d1fd9811.js": "/react-tesla-range-calculator/precache-manifest.7d4670102647ca9d7968daf0d1fd9811.js",
+    "service-worker.js": "/react-tesla-range-calculator/service-worker.js",
+    "static/css/main.5708ff62.chunk.css.map": "/react-tesla-range-calculator/static/css/main.5708ff62.chunk.css.map",
+    "static/js/2.7ff456a8.chunk.js.LICENSE.txt": "/react-tesla-range-calculator/static/js/2.7ff456a8.chunk.js.LICENSE.txt",
+    "static/media/TeslaStats.css": "/react-tesla-range-calculator/static/media/p100d.a2f30d07.svg",
+    "static/media/index.css": "/react-tesla-range-calculator/static/media/Roboto-Regular-webfont.7f1320f7.ttf",
+    "static/media/logo.svg": "/react-tesla-range-calculator/static/media/logo.1b7f8400.svg",
+    "static/media/TeslaCar.css": "/react-tesla-range-calculator/static/media/wheel-21.e787dc92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.749a546c.js",
+    "static/js/2.7ff456a8.chunk.js",
+    "static/css/main.5708ff62.chunk.css",
+    "static/js/main.6f83e17a.chunk.js"
+  ]
+}
